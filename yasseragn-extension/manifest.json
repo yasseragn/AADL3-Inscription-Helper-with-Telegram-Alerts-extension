@@ -1,0 +1,34 @@
+{
+   "action": {
+      "default_icon": "img/favicon.png",
+      "default_popup": "html/popup.html",
+      "default_title": "YASSERAGN AADL3 Auto Refresh & Telegram Alert"
+   },
+   "background": {
+      "service_worker": "js/background.js"
+   },
+   "content_scripts": [ {
+      "css": [ "css/content.css" ],
+      "js": [ "js/jquery.js", "js/init.js", "js/content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "description": " Automate form filling and submission on AADL3 Inscription with Telegram alerts. ",
+   
+
+   "icons": {
+      "128": "img/favicon.png"
+   },
+   "manifest_version": 3,
+   "minimum_chrome_version": "88",
+   "name": "YASSERAGN AADL3 Auto Refresh & Telegram Alert",
+   "options_page": "html/options.html",
+   "permissions": [ "tabs", "offscreen", "notifications", "storage" ],
+   
+   
+   "version": "1.0",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "img/*", "html/*" ]
+   } ]
+}
