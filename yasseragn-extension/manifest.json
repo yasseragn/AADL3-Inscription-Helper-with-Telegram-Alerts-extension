@@ -2,7 +2,8 @@
    "action": {
       "default_icon": "img/favicon.png",
       "default_popup": "html/popup.html",
-      "default_title": "YASSERAGN AADL3 Auto Refresh & Telegram Alert"
+      "default_title": "YASSERAGN AADL3 Inscription Helper with Telegram Alert"
+	  
    },
    "background": {
       "service_worker": "js/background.js"
@@ -21,7 +22,7 @@
    },
    "manifest_version": 3,
    "minimum_chrome_version": "88",
-   "name": "YASSERAGN AADL3 Auto Refresh & Telegram Alert",
+   "name": "YASSERAGN AADL3 Inscription Helper with Telegram Alert",
    "options_page": "html/options.html",
    "permissions": [ "tabs", "offscreen", "notifications", "storage" ],
    
