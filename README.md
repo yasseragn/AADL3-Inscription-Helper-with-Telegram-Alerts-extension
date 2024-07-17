@@ -91,6 +91,8 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 <br/>
 > [!CAUTION]
 > الغرض من هذه الإضافة هو تقليل الوقت المستغرق على **الموقع** من خلال التمكين من الملء التلقائي وتقليل معدلات الأخطاء أثناء الكتابة. تحاكي الإضافة الإجراءات البشرية في التحديث والملء، معتمداً على واجهة برمجة التطبيقات العامة لامتداد Chrome، مما يعزز تجربة التصفح بشكل كبير. هذا الإضافة تعمل بشكل مستقل ولا تتواصل مع الموقع بأي شكل، كما لا تحاول استغلال أي ثغرة أمنية.
