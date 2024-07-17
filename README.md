@@ -111,9 +111,79 @@
 3- سوف تتحصل على chat id و هو عبارة عن ارقام فقط. <br/>
 
 
+## تثبيت الإضافة في `الهاتف` 
+1- أولاً، قم بتحميل المشروع  من  Github: Code > Download ZIP. , **لا تفك الضغط على الملف**. <br/>
+<br/>
+<p align="center">
+  <img height="720" src="res/mobile-extension/01.png"> <img height="720" src="res/mobile-extension/02.png">
+</p>
+<br/>
+
+2- حمل تطبيق <a href='https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en&pli=1'>Kiwi Browser<a/> من متجر بلاي. <br/>
+3- بعد تثبيت التطبيق اضغط على ثلاث نقاط الموجودة في يمين التطبيق. <br/>
+
+<p align="center">
+  <img height="720" src="res/mobile-extension/03.png">
+</p>
+<br/>
+<p align="right">
+4- اضغط على خيار Extension. <br/>
+</p>
+<p align="center">
+  <img height="720" src="res/mobile-extension/04.png">
+</p>
+<br/>
+<p align="right">
+5- فعل زر Developer Mode. <br/>
+</p>
+<p align="center">
+  <img height="720" src="res/mobile-extension/05.png">
+</p>
+<br/>
+<p align="right">
+6- اضغط على الخيار <b>(from .zip/.crx/.user.js)</b>. <br/>
+</p>
+  <br/>
+<p align="center">
+  <img height="720" src="res/mobile-extension/06.png">
+</p>
+<br/>
+<p align="right">
+7- اختر الملف <b> zip </b> الذي حملته. <br/>
+</p>
+  <br/>
+<p align="center">
+  <img height="720" src="res/mobile-extension/07.png">
+</p>
+<br/>
+<p align="right">
+8- الان بقي فقط تشغيل التطبيق , اضغط  <b>على ثلاث نقاط </b> الموجودة في يمين التطبيق , و انزل تحت سوف تجد الاضافة مثبت بنجاح ثم اضغط على الاضافة. <br/>
+</p>
+  <br/>
+<p align="center">
+  <img height="720" src="res/mobile-extension/08.png">  <img height="720" src="res/mobile-extension/09.png">
+</p>
+
+<br/>
+<p align="right">
+9- سوف تفتح الاضافة , و املئ <b> المعلومات الضارورية </b>. <br/>
+</p>
+  <br/>
+<p align="center">
+  <img height="720" src="res/mobile-extension/10.png">
+</p>
+<br/>
+<p align="right">
+10- اضغط على <b> ابدأ </b> و سوف تفتح صفحة جديدة و تبدأ الاضافة في الاشتغال. <br/>
+</p>
+  <br/>
+<p align="center">
+  <img height="720" src="res/mobile-extension/11.png">
+</p>
+<br/>
 
 
-## طريقة استخدام `الإضافة`
+## طريقة استخدام `الإضافة` في الحاسوب 
 1- أولاً، قم بتنزيل المشروع وفك ضغطه من صفحة Github: Code > Download ZIP. <br/> 
 2- ابحث عن ملف yasseragn-extension. <br/>
 3- اذهب الى متصفح جوجل و اضغط على الثلاث نقاط الموجودة في يمين الصفحة. <br/>
@@ -150,7 +220,11 @@
 </p>
 <br/>
 
-9- زر **الحفظ** يتحكم بجزء الخاص ببوت التلجرام فقط مع زر **الحذف** ايضا.  
+9- زر **الحفظ** يتحكم بجزء الخاص ببوت التلجرام فقط مع زر **الحذف** ايضا. <br/>
+
+
+
+
 
 
 
